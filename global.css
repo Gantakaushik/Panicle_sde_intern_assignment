@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --heading-lg-extrabold: "Plus Jakarta Sans";
+    --label-md: "TT Hoves";
+  
+    /* font sizes */
+    --paragraph-lg-size: 18px;
+    --text-sm-semibold-size: 14px;
+    --heading-xs-bold-size: 24px;
+    --paragraph-xl-size: 20px;
+    --heading-lg-extrabold-size: 48px;
+    --label-xs-size: 10px;
+    --heading-xl-extrabold-size: 60px;
+    --label-sm-size: 12px;
+    --text-md-extrabold-size: 16px;
+    --heading-md-extrabold-size: 36px;
+    --heading-2xl-extrabold-size: 72px;
+  
+    /* Colors */
+    --asklepios-gray-10: #f2f5f9;
+    --asklepios-gray-70: #3d4966;
+    --asklepios-gray-80: #242e49;
+    --aceso-purple-50: #a56eff;
+    --therapeia-blue-60: #0f67fe;
+    --asklepios-gray-white: #fff;
+    --asklepios-gray-50: #818ba0;
+    --therapeia-blue-30: #a6cbff;
+    --asklepios-gray-20: #dce1e8;
+    --asklepios-gray-60: #5d6a85;
+    --asklepios-gray-30: #bec5d2;
+    --therapeia-blue-10: #edf5ff;
+    --therapeia-blue-20: #d0e4ff;
+    --aceso-purple-60: #8a3ffc;
+    --aceso-purple-10: #f6f2ff;
+    --hygieia-red-50: #fa4d5e;
+    --gray-100: #09111d;
+    --asklepios-gray-100: #090e1d;
+  
+    /* Gaps */
+    --gap-base: 16px;
+    --gap-105xl: 124px;
+    --gap-5xl: 24px;
+    --gap-13xl: 32px;
+    --gap-77xl: 96px;
+    --gap-xs: 12px;
+    --gap-29xl: 48px;
+    --gap-5xs: 8px;
+    --gap-45xl: 64px;
+    --gap-109xl: 128px;
+    --gap-21xl: 40px;
+    --gap-xl: 20px;
+    --gap-4xs: 9px;
+  
+    /* Paddings */
+    --padding-5xl: 24px;
+    --padding-base: 16px;
+    --padding-13xl: 32px;
+    --padding-77xl: 96px;
+    --padding-5xs: 8px;
+    --padding-4xl: 23px;
+    --padding-xs: 12px;
+    --padding-xl: 20px;
+    --padding-21xl: 40px;
+    --padding-sm-5: 13.5px;
+  
+    /* Border radiuses */
+    --br-5xl: 24px;
+    --br-xs: 12px;
+    --br-11xs: 2px;
+    --br-mini: 15px;
+    --br-sm: 14px;
+    --br-12xs: 1px;
+    --br-base: 16px;
+    --br-7xs: 6px;
+    --br-10xs: 3px;
+    --br-11xs-5: 1.5px;
+    --br-5xs: 8px;
+    --br-9xs: 4px;
+    --br-6xl: 25px;
+    --br-lg: 18px;
+    --br-sm-5: 13.5px;
+  
+    /* Effects */
+    --card-shadow-blue-25: 0px 16px 32px rgba(15, 103, 254, 0.25);
+    --card-shadow-black-5: 0px 16px 32px rgba(9, 14, 29, 0.05);
+  }
+  
